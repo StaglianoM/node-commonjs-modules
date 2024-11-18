@@ -4,3 +4,5 @@ function createName(firstName, lastName) {
   }
   
   module.exports = createName;
+
+  // console.log('Pinco', 'Pallino')
